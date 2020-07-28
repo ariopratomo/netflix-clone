@@ -7,9 +7,11 @@
     "@testing-library/react": "^9.5.0",
     "@testing-library/user-event": "^7.2.1",
     "axios": "^0.19.2",
+    "movie-trailer": "^2.0.6",
     "react": "^16.13.1",
     "react-dom": "^16.13.1",
-    "react-scripts": "3.4.1"
+    "react-scripts": "3.4.1",
+    "react-youtube": "^7.11.3"
   },
   "scripts": {
     "start": "react-scripts start",
